@@ -1,2 +1,2 @@
 # Api-Kotlin-SpringBoot
-Neste projeto estou implantando as tecmologias com SpringBoot e SpringSecurity 
+Neste projeto estou implantando as tecologias com SpringBoot e SpringSecurity 
